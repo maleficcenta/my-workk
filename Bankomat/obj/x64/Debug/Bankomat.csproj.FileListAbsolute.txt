@@ -1,0 +1,13 @@
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.csproj.AssemblyReference.cache
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.Properties.Resources.resources
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.csproj.GenerateResource.cache
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\zamur\source\repos\Bankomat\Bankomat\bin\x64\Debug\Bankomat.exe.config
+C:\Users\zamur\source\repos\Bankomat\Bankomat\bin\x64\Debug\Bankomat.exe
+C:\Users\zamur\source\repos\Bankomat\Bankomat\bin\x64\Debug\Bankomat.pdb
+C:\Users\zamur\source\repos\Bankomat\Bankomat\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\zamur\source\repos\Bankomat\Bankomat\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.csproj.CopyComplete
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.exe
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.pdb
+C:\Users\zamur\source\repos\Bankomat\Bankomat\obj\x64\Debug\Bankomat.Form1.resources
